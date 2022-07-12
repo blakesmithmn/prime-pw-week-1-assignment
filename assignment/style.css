@@ -1,15 +1,16 @@
 /* Give your page a fun background color */
 body {
-    background-color:
+    background-color: #FEFAE0;
+
 }
 
 /* Make the header and footer a different color from the background */
 header {
-    background-color: ;
+    background-color: #283618;
 }
 
 footer {
-    background-color: ;
+    background-color: #283618;
 }
 
 /* Align the h1 containing your name in the center of the header*/
