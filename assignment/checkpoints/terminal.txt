@@ -7,13 +7,13 @@
 # 3 - What is the command for going "up" a folder (to a parent directory)?
         cd .. is the command to go up a folder
 # 4 - What is a quick way to create a new folder?
-        mkdir - think of it as make directory!
+        mkdir "folder name" - think of it as make directory!
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
         it returns with an empty terminal message - and no contents shown below it
 # 6 - What is a quick way to create a new file?
         "touch" is used to create new files within a directory
 # 7 - Run 'git --version' in your terminal. What is the output?
-        git version 2.15.0
+        git version 2.33.0
 # 8 - Why would you run the command 'git status'?
         running git status shows you which files have changes that need to be added/committed 
 # 9 - What does the command 'git add .' do?
