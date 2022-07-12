@@ -21,10 +21,14 @@ h1 {
 /* Make your p tag a different color and italic */
 p {
     font-style: italic;
-    color: ;
+    color: #606C38;
     font-family: Roboto;
 }
 
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+ul li {
+    font-family: ;
+    color: black;
+}
