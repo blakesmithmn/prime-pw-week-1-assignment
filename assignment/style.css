@@ -16,19 +16,28 @@ footer {
 /* Align the h1 containing your name in the center of the header*/
 h1 {
     text-align: center;
+    color: white;
 }
 
 /* Make your p tag a different color and italic */
 p {
     font-style: italic;
-    color: #606C38;
+    color: white;
     font-family: Roboto;
+    text-align: center;
 }
 
 /* Put a border around your image */
+.image {
+    border: dotted black 2px;
+    max-inline-size: 250px;
+
+}
 
 /* Change the font-family of your list */
 ul li {
     font-family: ;
     color: black;
+    list-style-type: square;
+
 }
